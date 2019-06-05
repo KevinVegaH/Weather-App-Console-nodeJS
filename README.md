@@ -1,4 +1,4 @@
-#weather application - course node
+## Weather Application
 
 remember to execute `npm install`.
 
