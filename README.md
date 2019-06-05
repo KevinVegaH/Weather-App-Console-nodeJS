@@ -2,7 +2,7 @@
 
 remember to execute `npm install`.
 
-To get the climate of a place, we must do the following:
+To get the weather of a place, we must do the following:
 
 ### Example:
 
